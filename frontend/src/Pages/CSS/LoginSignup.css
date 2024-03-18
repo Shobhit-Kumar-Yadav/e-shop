@@ -61,8 +61,8 @@
 .loginsignup-agree {
     display: flex;
     align-items: center;
-    margin-top: 25px;
-    gap: 20px;
+    margin-top: 15px;
+    gap: 10px;
     color: #5c5c5c;
     font-size: 18px;
     font-weight: 500;
