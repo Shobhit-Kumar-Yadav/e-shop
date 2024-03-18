@@ -1,7 +1,7 @@
 .navbar {
     display: flex;
     justify-content: space-around;
-    padding: 16px;
+    padding: 10px;
     box-sizing: 0 1px 3px -2px black;
 }
 
@@ -13,7 +13,7 @@
 
 .nav-logo {
     color: #171717;
-    font-size: 38px;
+    font-size: 35px;
     font-weight: 600;
 }
 
@@ -57,8 +57,8 @@
     border: 1px solid #7a7a7a;
     border-radius: 75px;
     color: #515151;
-    font-size: 20px;
-    font-weight: 500;
+    font-size: 17px;
+    font-weight: 5000;
     background: white;
     cursor: pointer;
 }
